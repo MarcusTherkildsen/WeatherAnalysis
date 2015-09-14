@@ -14,7 +14,7 @@ Plots NASA weather forecasting data from https://cds.nccs.nasa.gov/nex-gddp/
       sudo apt-get install netcdf4
 
 
-* **Download the wanted weather file** 
+## Download the wanted weather file** 
  
   Just go to 
 
