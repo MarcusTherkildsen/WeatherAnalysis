@@ -14,7 +14,7 @@ Plots NASA weather forecasting data from https://cds.nccs.nasa.gov/nex-gddp/
       sudo apt-get install netcdf4
 
 
-## Download the wanted weather file** 
+## Download the wanted weather file
  
   Just go to 
 
@@ -26,4 +26,4 @@ Plots NASA weather forecasting data from https://cds.nccs.nasa.gov/nex-gddp/
 
   Others might work as well but I have not tested them. Feel free to do so. 
   
-  Now just run the script and a plot for each will be saved. 
+  Now just run the script and a plot for each day will be saved. 
